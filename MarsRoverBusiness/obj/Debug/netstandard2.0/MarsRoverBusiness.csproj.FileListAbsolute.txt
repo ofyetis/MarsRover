@@ -1,0 +1,8 @@
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRoverBusiness\bin\Debug\netstandard2.0\MarsRoverBusiness.deps.json
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRoverBusiness\bin\Debug\netstandard2.0\MarsRoverBusiness.dll
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRoverBusiness\bin\Debug\netstandard2.0\MarsRoverBusiness.pdb
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRoverBusiness\obj\Debug\netstandard2.0\MarsRoverBusiness.csprojAssemblyReference.cache
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRoverBusiness\obj\Debug\netstandard2.0\MarsRoverBusiness.AssemblyInfoInputs.cache
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRoverBusiness\obj\Debug\netstandard2.0\MarsRoverBusiness.AssemblyInfo.cs
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRoverBusiness\obj\Debug\netstandard2.0\MarsRoverBusiness.dll
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRoverBusiness\obj\Debug\netstandard2.0\MarsRoverBusiness.pdb

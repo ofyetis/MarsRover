@@ -1,0 +1,14 @@
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.exe
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.deps.json
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.json
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.dev.json
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.dll
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.pdb
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfoInputs.cache
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfo.cs
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.dll
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.pdb
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csprojAssemblyReference.cache
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRoverBusiness.dll
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRoverBusiness.pdb
+C:\Users\omery\Desktop\Ömer Faruk Yetiş\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CopyComplete
